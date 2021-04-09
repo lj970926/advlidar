@@ -1,0 +1,3 @@
+[submodule "PointRCNN"]
+	path = PointRCNN
+	url = https://github.com/sshaoshuai/PointRCNN.git
